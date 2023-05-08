@@ -1,6 +1,6 @@
 
-Experienced front-end developer with knowledge in Swift, HTML, CSS, JavaScript, C, and Python 💻. ![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-Skilled in creating responsive and dynamic 
+Experienced front-end developer with knowledge in Swift, HTML, CSS, JavaScript, C, and Python 💻. 
+Skilled in creating responsive and dynamic ![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 web applications using the latest front-end technologies . 
 Passionate about designing and developing visually
 appealing and user-friendly interfaces.
