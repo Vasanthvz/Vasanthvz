@@ -1,4 +1,4 @@
-<img align="right" alt="salmancz" width="400px" height="400px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="vasanthvz" width="400px" height="400px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 Experienced front-end developer with knowledge in Swift, HTML, CSS, JavaScript, C, and Python 💻. 
 Skilled in creating responsive and dynamicweb applications  
 using the latest front-end technologies . 
